@@ -1,2 +1,5 @@
 # Hello-world
-Starting repository
+
+Hello people;
+
+My name is Raheem, I love music and writing poetry.
